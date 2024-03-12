@@ -1,0 +1,52 @@
+.box-container-project{
+    width: 20em;
+    height: 25em;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius:3em;
+    box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
+    color: azure;
+    background-color: rgb(33,33,33);
+    margin: 5rem 0rem 5rem 0rem;
+}
+.conatiner-Project{
+    background-color: black;
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+.inner-conatiner-education{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.h1-tag1{
+    margin: 5rem 0rem 5rem 0rem;
+    color: azure;
+}
+.a-btn{
+    text-decoration: none;
+    color: azure;
+}
+.btn-conatiner{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.btn-p{
+    width: 8vw;
+    height: 5vh;
+    background-color: rgb(33,33,33);
+    color: azure;
+    border-radius: 5em;
+    box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
+}

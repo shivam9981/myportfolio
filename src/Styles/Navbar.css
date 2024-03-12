@@ -1,0 +1,27 @@
+.navbar-conatiner{
+    background-color: black;
+    color: azure;
+    position: fixed;
+    width: 100%;
+    /* height: auto; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 10vh;
+}
+.btn{
+    width: 10rem;
+    height: 2.5rem;
+    background-color: rgb(33,33,33);
+    color: azure;
+    border-radius: 5em;
+    box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
+}
+@media (max-width:410px) {
+    .navbar-conatiner{
+        gap: 10px;
+        flex-direction: column;
+        height: 15vh;
+    }
+}

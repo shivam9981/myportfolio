@@ -1,0 +1,75 @@
+.btn-1{
+    width: 10rem;
+    height: 3rem;
+    background-color: rgb(33,33,33);
+    color: azure;
+    border-radius: 5em;
+    box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
+    margin-top: 3em;
+}
+
+
+
+.img{
+    /* background-color: rgba(0, 255, 255, 0.301); */
+    border-radius: 10%;
+    width: 20em;
+    height: 20em;
+    box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
+    
+}
+.conatiner-about{
+    background-color: black;
+    color: azure;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.inner-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: azure;
+    /* flex-wrap: wrap; */
+}
+.aboutme-home{
+    width: 40em;
+    line-height: 1.5em;
+    font-size: 1.2rem;
+  
+
+}
+.inner-about{
+    margin: 10rem 0rem;
+    width: 100%;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.about-para{
+    margin-top: 3rem;
+    font-size: 2rem;
+    font-weight: 900;
+}
+@media (max-width: 1170px) {
+    .img{
+        margin-bottom: 3rem;
+    }
+    .aboutme-home
+    {
+        text-align: center;
+        width: 25rem;
+        font-size: 1rem;
+    }
+}
+
+@media  (max-width:410px) {
+    .aboutme-home{
+        width: 20rem;
+    }   
+}
