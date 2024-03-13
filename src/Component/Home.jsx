@@ -8,7 +8,7 @@ import Typewriter from 'typewriter-effect'
 const Home = () => {
 
     
-
+console.log("Done")
     return (
         <div className='conatiner-home'>
             <div className='inner-container'>
