@@ -6,7 +6,7 @@ const About = () => {
             <p className='about-para'> ABOUUT ME</p>
             <div className='inner-about'>
                 <div>
-                    <img src='./shivam.png'  className='img1' alt='Image Not Found' />
+                    <img src='./shivam.png' className='img1' alt='Image Not Found' />
                 </div>
                 <div>
                     <p className='aboutme-home'>As a recent graduate passionate about technology, I am excited to embark on a journey in the dynamic world of IT. I possess a solid foundation in computer science, with a keen interest in exploring emerging technologies and solving complex problems through innovative solutions.
@@ -23,5 +23,4 @@ const About = () => {
         </div>
     )
 }
-
 export default About
