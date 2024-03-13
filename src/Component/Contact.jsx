@@ -5,7 +5,9 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 const Contect = () => {
+  console.log("done")
   return (
+
     <>
       <div className='contect-conatiner'>
         <p className='p-tags-conatce'>CONTACT US</p>
