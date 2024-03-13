@@ -1,6 +1,7 @@
 import React from 'react'
 import '../Styles/About.css'
 const About = () => {
+    console.log("Done")
     return (
         <div className='conatiner-about'>
             <p className='about-para'> ABOUUT ME</p>
