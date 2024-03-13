@@ -12,6 +12,11 @@
     background-color: black;
     margin: 1rem;
 }
+
+.box-container:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 50px 5px rgb(45, 45, 99);
+}
 .conatiner-education{
     background-color: rgb(33,33,33);
     width: auto;

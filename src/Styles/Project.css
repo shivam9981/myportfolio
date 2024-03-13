@@ -12,6 +12,11 @@
     background-color: rgb(33,33,33);
     margin: 5rem 0rem 5rem 0rem;
 }
+.box-container-project:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 50px 5px rgb(45, 45, 99);
+
+}
 .conatiner-Project{
     background-color: black;
     width: auto;
@@ -41,10 +46,21 @@
     display: flex;
     flex-direction: row;
     gap: 15px;
+    flex-wrap: wrap;
+}
+.btn-p:hover{
+    cursor: pointer;
+    box-shadow:  5px 5px 19px 10px rgb(255, 255, 255);
+    background-color: aqua;
+    color: black;
+}
+.a-btn:hover{
+   
+    color: black;
 }
 .btn-p{
-    width: 8vw;
-    height: 5vh;
+    width: 8em;
+    height: 3em;
     background-color: rgb(33,33,33);
     color: azure;
     border-radius: 5em;

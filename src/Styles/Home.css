@@ -5,8 +5,11 @@
     box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
     
 }
+.img:hover{
+    cursor: pointer;
+    box-shadow:   5px 5px 1000px 10px rgb(255, 255, 255)
+}
 .conatiner-home{
-    /* padding:10rem 0rem; */
     background-color: rgb(33,33,33);
     width: auto;
     height: auto;
@@ -34,7 +37,6 @@
 }
 .link-conatiner{
     width:40vh;
-    /* border: 5px solid wheat; */
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -42,7 +44,15 @@
 .name{
     font-size: 2rem;
 }
-
+.link-btn:hover{
+    cursor: pointer;
+    box-shadow:   5px 5px 19px 10px rgb(255, 255, 255);
+    background-color: aqua;
+    color: black;
+}
+.h1{
+    color: aqua;
+}
 @media  (max-width:670px) {
     .aboutme-home{
         width: 25rem;

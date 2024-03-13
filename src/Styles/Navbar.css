@@ -18,6 +18,13 @@
     border-radius: 5em;
     box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
 }
+
+.btn:hover{
+    cursor: pointer;
+    box-shadow:   5px 5px 19px 10px rgb(255, 255, 255);
+    background-color: aqua;
+    color: black;
+}
 @media (max-width:410px) {
     .navbar-conatiner{
         gap: 10px;

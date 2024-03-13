@@ -1,7 +1,7 @@
 .contect-conatiner{
     background-color: rgb(33,33,33);
     width: auto;
-    height: 100vh;
+    height: auto;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -9,6 +9,7 @@
     color:azure;
 }
 .p-tags-conatce{
+    margin: 5rem 0;
     font-size: 2rem;
     font-weight: 900;
 }
@@ -43,6 +44,7 @@
 }
 
 .inner-contec-conatiner{
+    margin: 4rem 0;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -74,4 +76,45 @@
     .contact-detail{
         margin: 2rem 0rem;
     }
+}
+.btn-contact{
+    margin-left: 10em;
+    width: 10rem;
+    height: 2.5rem;
+    background-color: rgb(33,33,33);
+    color: azure;
+    border-radius: 5em;
+    box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
+}
+
+.p-tags-conatce{
+    margin: 3rem 0 0 0 ;
+}
+.btn-contact:hover{
+    cursor: pointer;
+    box-shadow:   5px 5px 19px 10px rgb(255, 255, 255);
+    background-color: aqua;
+    color: black;
+}
+
+.link-btn{
+    box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+}
+.link-conatiner{
+    width:40vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.name{
+    font-size: 2rem;
+}
+.link-btn:hover{
+    cursor: pointer;
+    box-shadow:   5px 5px 19px 10px rgb(255, 255, 255);
+    background-color: aqua;
+    color: black;
 }

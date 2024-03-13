@@ -12,7 +12,11 @@
     background-color:  rgb(33,33,33);
     margin: 1em;
 }
+.box-container-skils:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 50px 5px rgb(45, 45, 99);
 
+}
 .conatiner-education-skils{
     background-color: black;
     width: auto;
