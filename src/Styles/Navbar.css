@@ -1,4 +1,4 @@
-.navbar-conatiner{
+.navbar-conatiner {
     background-color: black;
     color: azure;
     position: fixed;
@@ -10,23 +10,35 @@
     align-items: center;
     height: 10vh;
 }
-.btn{
+
+.btn {
     width: 10rem;
     height: 2.5rem;
-    background-color: rgb(33,33,33);
+    background-color: rgb(33, 33, 33);
     color: azure;
     border-radius: 5em;
     box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
 }
 
-.btn:hover{
+
+.btn:hover {
     cursor: pointer;
-    box-shadow:   5px 5px 19px 10px rgb(255, 255, 255);
+    box-shadow: 5px 5px 19px 10px rgb(255, 255, 255);
     background-color: aqua;
     color: black;
 }
+
+.btns{
+    color: azure;
+    text-decoration: none;
+    margin-top: 3em;
+}
+.btns:hover {
+    color: black;
+}
+
 @media (max-width:410px) {
-    .navbar-conatiner{
+    .navbar-conatiner {
         gap: 10px;
         flex-direction: column;
         height: 15vh;

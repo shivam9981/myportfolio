@@ -1,6 +1,16 @@
 import React from 'react'
 import '../Styles/About.css'
 const About = () => {
+    const url = "http://localhost:3000/Shivam_Gupta_Resume.pdf"
+    const downloadfile = (url)=>{
+        const filename = url.split("/").pop()
+        const atag = document.createElement("a");
+        atag.href = url;
+        atag.setAttribute("Download", filename)
+        document.body.appendChild(atag);
+        atag.click();
+        atag.click();
+    }
     console.log("Done")
     return (
         <div className='conatiner-about'>
@@ -16,8 +26,8 @@ const About = () => {
 
                         I thrive in collaborative environments and am eager to contribute my enthusiasm and fresh perspectives to your esteemed organization. With a hunger for continuous learning and a drive to excel, I am prepared to adapt to new challenges and contribute positively to your team.
                     </p>
-                    <button className='btn-1'>
-                        Download Resume
+                    <button className='btn-1' >
+                        <a className='btns' href='./Shivam_Gupta_Resume.pdf' download="Shivam_Gupta_Resume.pdf">Download Resume</a>
                     </button>
                 </div>
             </div>

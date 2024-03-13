@@ -7,16 +7,24 @@
     box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
     margin-top: 3em;
 }
-
+.btns{
+    width: 10rem;
+    height: 3rem;
+    color: azure;
+    text-decoration: none;
+    margin-top: 3em;
+}
 .btn-1:hover{
     cursor: pointer;
     box-shadow:   5px 5px 19px 10px rgb(255, 255, 255);
     background-color: aqua;
     color: black;
 }
+.btns:hover{
+    color: black;
+}
 
 .img1{
-    /* background-color: rgba(0, 255, 255, 0.301); */
     border-radius: 10%;
     width: 20em;
     height: 20em;
@@ -43,7 +51,6 @@
     flex-direction: column;
     justify-content: space-evenly;
     color: azure;
-    /* flex-wrap: wrap; */
 }
 .aboutme-home{
     width: 40em;
