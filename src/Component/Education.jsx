@@ -8,7 +8,7 @@ const Education = () => {
                 <div className='box-container'>
                     <p>Nalanda Vidhya Peeth School</p>
                     <p>Gadarwara</p>
-                    <p>10 th</p>
+                    <p>10th</p>
                     <p>Madhya Pradesh Board</p>
                     <p>2014-2015</p>
                 </div>
@@ -18,7 +18,7 @@ const Education = () => {
                 <div className='box-container'>
                     <p>Govt. Boys Higher Secondary School</p>
                     <p>Gadarwara</p>
-                    <p>12 th</p>
+                    <p>12th</p>
                     <p>Madhya Pradesh Board</p>
                     <p>2016-2017</p>
                 </div>
