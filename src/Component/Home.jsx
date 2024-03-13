@@ -5,6 +5,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 const Home = () => {
+    console.log("Done")
     return (
         <div className='conatiner-home'>
             <div className='inner-container'>
