@@ -16,18 +16,18 @@ const Contect = () => {
             <p className='contact'>9981392889</p>
             <p className='contact'>technical.shivamgupta2000@gmail.com</p>
             <div className='link-conatiner'>
-                    <button className='link-btn'>
+                    <a href='https://www.linkedin.com/in/shivam-gupta-370792195/' target="_blank"  className='link-btn'>
                         <LinkedInIcon />
-                    </button>
-                    <button className='link-btn'>
+                    </a>
+                    <a href='https://github.com/shivam9981' target="_blank" className='link-btn'>
                         <GitHubIcon />
-                    </button>
-                    <button className='link-btn'>
+                    </a>
+                    <a href='https://www.facebook.com/profile.php?id=100046248880965&sk=about' target="_blank" className='link-btn'>
                         <FacebookIcon />
-                    </button>
-                    <button className='link-btn'>
+                    </a>
+                    <a href='https://www.instagram.com/____guptajii____/' target="_blank" className='link-btn'>
                         <InstagramIcon />
-                    </button>
+                    </a>
                 </div>
           </div>
           <div className='contact-form'>

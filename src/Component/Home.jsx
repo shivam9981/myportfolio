@@ -33,18 +33,18 @@ const Home = () => {
                 <p className='aboutme-home'>I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.</p>
 
                 <div className='link-conatiner'>
-                    <button className='link-btn'>
+                    <a href='https://www.linkedin.com/in/shivam-gupta-370792195/' target="_blank"  className='link-btn'>
                         <LinkedInIcon />
-                    </button>
-                    <button className='link-btn'>
+                    </a>
+                    <a href='https://github.com/shivam9981' target="_blank" className='link-btn'>
                         <GitHubIcon />
-                    </button>
-                    <button className='link-btn'>
+                    </a>
+                    <a href='https://www.facebook.com/profile.php?id=100046248880965&sk=about' target="_blank" className='link-btn'>
                         <FacebookIcon />
-                    </button>
-                    <button className='link-btn'>
+                    </a>
+                    <a href='https://www.instagram.com/____guptajii____/' target="_blank" className='link-btn'>
                         <InstagramIcon />
-                    </button>
+                    </a>
                 </div>
             </div>
             <div>

@@ -15,14 +15,14 @@ const Project = () => {
                     <p>MARCH-2022 / APRIL-2022</p>
                     <div className='btn-conatiner'>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Source Code</a>
+                            <a href='https://github.com/shivam9981/INoteBook-ReactJS/tree/main/Inotebook' target="_blank" className='a-btn'>Source Code</a>
                         </button>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Live View</a>
+                            <a href='#' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
                 </div>
-                
+
 
                 <div className='box-container-project'>
                     <p>Profile Information</p>
@@ -34,10 +34,10 @@ const Project = () => {
                     <p>AUG-2022 / SEPT-2022</p>
                     <div className='btn-conatiner'>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Source Code</a>
+                            <a href='https://github.com/shivam9981/PROFILE' target="_blank" className='a-btn'>Source Code</a>
                         </button>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Live View</a>
+                            <a href='#' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
                 </div>
@@ -52,10 +52,10 @@ const Project = () => {
                     <p>JAN-2023 / FER-2023</p>
                     <div className='btn-conatiner'>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Source Code</a>
+                            <a href='https://github.com/shivam9981/Blog' target="_blank" className='a-btn'>Source Code</a>
                         </button>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Live View</a>
+                            <a href='https://blog-gamma-olive.vercel.app' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
                 </div>
@@ -70,10 +70,10 @@ const Project = () => {
                     <p>MARCH-2023 / APRIL-2023</p>
                     <div className='btn-conatiner'>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Source Code</a>
+                            <a href='#' target="_blank" className='a-btn'>Source Code</a>
                         </button>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Live View</a>
+                            <a href='#' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
                 </div>
@@ -88,10 +88,10 @@ const Project = () => {
                     <p>JUN-2023 / JULY-2023</p>
                     <div className='btn-conatiner'>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Source Code</a>
+                            <a href='#' target="_blank" className='a-btn'>Source Code</a>
                         </button>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Live View</a>
+                            <a href='#' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
                 </div>
@@ -106,10 +106,10 @@ const Project = () => {
                     <p>FEB-2024 / MARCH-2024</p>
                     <div className='btn-conatiner'>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Source Code</a>
+                            <a href='#' target="_blank" className='a-btn'>Source Code</a>
                         </button>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Live View</a>
+                            <a href='#' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
                 </div>
@@ -123,10 +123,10 @@ const Project = () => {
                     <p>FER-2024 / FER-2024</p>
                     <div className='btn-conatiner'>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Source Code</a>
+                            <a href='https://github.com/shivam9981/Techplement' target="_blank" className='a-btn'>Source Code</a>
                         </button>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Live View</a>
+                            <a href='#' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
                 </div>
@@ -141,10 +141,10 @@ const Project = () => {
                     <p>FER-2024 / FER-2024</p>
                     <div className='btn-conatiner'>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Source Code</a>
+                            <a href='https://github.com/shivam9981/audio' target="_blank" className='a-btn'>Source Code</a>
                         </button>
                         <button className='btn-p'>
-                            <a href='#' className='a-btn'>Live View</a>
+                            <a href='https://audio-lime.vercel.app' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
                 </div>

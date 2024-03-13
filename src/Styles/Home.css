@@ -34,12 +34,18 @@
     width: 3em;
     height: 3em;
     border-radius: 50%;
+    color: black;
+    display: flex;
+    align-items: center;
+    background-color: azure;
+    justify-content: center;
 }
 .link-conatiner{
     width:40vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+
 }
 .name{
     font-size: 2rem;
