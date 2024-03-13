@@ -1,17 +1,7 @@
 import React from 'react'
 import '../Styles/About.css'
 const About = () => {
-    const url = "http://localhost:3000/Shivam_Gupta_Resume.pdf"
-    const downloadfile = (url)=>{
-        const filename = url.split("/").pop()
-        const atag = document.createElement("a");
-        atag.href = url;
-        atag.setAttribute("Download", filename)
-        document.body.appendChild(atag);
-        atag.click();
-        atag.click();
-    }
-    console.log("Done")
+    
     return (
         <div className='conatiner-about'>
             <p className='about-para'> ABOUUT ME</p>
