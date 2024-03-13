@@ -13,7 +13,7 @@ const Home = () => {
         <div className='conatiner-home'>
             <div className='inner-container'>
                 <p className='name'>Shivam Gupta</p>
-                <h1 className='h1'>I'am a
+                <h1 className='h1'>I'm a
                    <Typewriter 
                     options={{
                         autoStart:true,

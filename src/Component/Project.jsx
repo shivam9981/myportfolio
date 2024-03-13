@@ -3,7 +3,7 @@ import '../Styles/Project.css'
 const Project = () => {
     return (
         <div className='conatiner-Project'>
-            <h1 className='h1-tag1'>MY PEOJECT</h1>
+            <h1 className='h1-tag1'>MY PROJECT</h1>
             <div className='inner-conatiner-education'>
                 <div className='box-container-project'>
                     <p>INOTEBOOK</p>

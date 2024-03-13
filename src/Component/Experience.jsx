@@ -3,7 +3,7 @@ import '../Styles/Education.css'
 const Experience = () => {
     return (
         <div className='conatiner-education'>
-            <h1 className='h1-tag'>MY EXPERENCE</h1>
+            <h1 className='h1-tag'>MY EXPERIENCE</h1>
             <div className='inner-conatiner-education'>
                 <div className='box-container'>
                     <p>Ouranos Robotics Private LTD.</p>

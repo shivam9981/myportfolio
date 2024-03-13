@@ -5,7 +5,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 const Contect = () => {
- 
+
   return (
 
     <>
@@ -16,19 +16,19 @@ const Contect = () => {
             <p className='contact'>9981392889</p>
             <p className='contact'>technical.shivamgupta2000@gmail.com</p>
             <div className='link-conatiner'>
-                    <a href='https://www.linkedin.com/in/shivam-gupta-370792195/' target="_blank"  className='link-btn'>
-                        <LinkedInIcon />
-                    </a>
-                    <a href='https://github.com/shivam9981' target="_blank" className='link-btn'>
-                        <GitHubIcon />
-                    </a>
-                    <a href='https://www.facebook.com/profile.php?id=100046248880965&sk=about' target="_blank" className='link-btn'>
-                        <FacebookIcon />
-                    </a>
-                    <a href='https://www.instagram.com/____guptajii____/' target="_blank" className='link-btn'>
-                        <InstagramIcon />
-                    </a>
-                </div>
+              <a href='https://www.linkedin.com/in/shivam-gupta-370792195/' target="_blank" className='link-btn'>
+                <LinkedInIcon />
+              </a>
+              <a href='https://github.com/shivam9981' target="_blank" className='link-btn'>
+                <GitHubIcon />
+              </a>
+              <a href='https://www.facebook.com/profile.php?id=100046248880965&sk=about' target="_blank" className='link-btn'>
+                <FacebookIcon />
+              </a>
+              <a href='https://www.instagram.com/____guptajii____/' target="_blank" className='link-btn'>
+                <InstagramIcon />
+              </a>
+            </div>
           </div>
           <div className='contact-form'>
             <div className='form'>

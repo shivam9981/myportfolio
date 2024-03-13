@@ -8,7 +8,7 @@ const About = () => {
     }
     return (
         <div className='conatiner-about'>
-            <p className='about-para'> ABOUUT ME</p>
+            <p className='about-para'> ABOUT ME</p>
             <div className='inner-about'>
                 <div>
                     <img src='./shivam.png' className='img1' alt='Image Not Found' />

@@ -3,7 +3,7 @@ import '../Styles/Skils.css'
 const Skils = () => {
     return (
         <div className='conatiner-education-skils'>
-            <p className='h1-tag'>MY SKILS</p>
+            <p className='h1-tag'>MY SKILLS</p>
             <div className='inner-conatiner-education'>
                 <div className='inner-language-conatiner-education'>
                     <p className='h1-tag'>Programming Language</p>
