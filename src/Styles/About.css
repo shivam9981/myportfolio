@@ -23,6 +23,10 @@
     box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
     
 }
+.img1:hover{
+    cursor: pointer;
+    box-shadow:   5px 5px 1000px 10px rgb(255, 255, 255)
+}
 .conatiner-about{
     background-color: black;
     color: azure;
@@ -62,7 +66,7 @@
     font-weight: 900;
 }
 @media (max-width: 1170px) {
-    .img{
+    .img1{
         margin-bottom: 3rem;
     }
     .aboutme-home
