@@ -1,6 +1,6 @@
 import React from 'react'
-import '../Styles/Skils.css'
-const Skils = () => {
+import '../Styles/Skills.css'
+const Skills = () => {
     return (
         <div className='conatiner-education-skils'>
             <p className='h1-tag'>MY SKILLS</p>
@@ -54,4 +54,4 @@ const Skils = () => {
     )
 }
 
-export default Skils
+export default Skills
