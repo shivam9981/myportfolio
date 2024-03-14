@@ -1,11 +1,7 @@
 import React from 'react'
 import '../Styles/About.css'
-import jsPDF from 'jspdf'
 const About = () => {
-    const downloadpdf =()=>{
-        const doc = new jsPDF();
-        doc.save("Shivam_Gupta_Resume.pdf")
-    }
+    
     return (
         <div className='conatiner-about'>
             <p className='about-para'> ABOUT ME</p>
@@ -20,9 +16,9 @@ const About = () => {
 
                         I thrive in collaborative environments and am eager to contribute my enthusiasm and fresh perspectives to your esteemed organization. With a hunger for continuous learning and a drive to excel, I am prepared to adapt to new challenges and contribute positively to your team.
                     </p>
-                    <button className='btn-1' onClick={downloadpdf} >
+                    <a href='./Shivam_Gupta_Resume.pdf' download="Shivam_Gupta_Resume.pdf" className='btn-1'  >
                         Download Resume
-                    </button>
+                    </a>
                 </div>
             </div>
         </div>

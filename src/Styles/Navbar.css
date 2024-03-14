@@ -12,12 +12,13 @@
 }
 
 .btn {
-    width: 10rem;
-    height: 2.5rem;
-    background-color: rgb(33, 33, 33);
+    text-decoration: none;
+    padding: 0.7rem 1rem;
+    background-color: rgb(33,33,33);
     color: azure;
     border-radius: 5em;
     box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
+    
 }
 
 

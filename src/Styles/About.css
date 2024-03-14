@@ -1,26 +1,18 @@
 .btn-1{
-    width: 10rem;
-    height: 3rem;
+
+    text-decoration: none;
+    padding: 0.7rem 1rem;
     background-color: rgb(33,33,33);
     color: azure;
     border-radius: 5em;
     box-shadow: 5px 5px 5px 5px rgb(45, 45, 99);
-    margin-top: 3em;
+    
 }
-.btns{
-    width: 10rem;
-    height: 3rem;
-    color: azure;
-    text-decoration: none;
-    margin-top: 3em;
-}
+
 .btn-1:hover{
     cursor: pointer;
     box-shadow:   5px 5px 19px 10px rgb(255, 255, 255);
     background-color: aqua;
-    color: black;
-}
-.btns:hover{
     color: black;
 }
 
@@ -53,6 +45,7 @@
     color: azure;
 }
 .aboutme-home{
+    margin-bottom: 2rem;
     width: 40em;
     line-height: 1.5em;
     font-size: 1.2rem;
