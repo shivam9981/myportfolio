@@ -1,7 +1,7 @@
 import React from 'react'
 import '../Styles/Navbar.css'
 const Navbar = () => {
-
+  console.log("Done")
   return (
     <div className='navbar-conatiner'>
       <h1>Shivam Gupta</h1>
