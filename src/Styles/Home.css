@@ -7,6 +7,7 @@
 }
 .img:hover{
     cursor: pointer;
+    /* box-shadow:   5px 5px 1000px 10px aqua */
     box-shadow:   5px 5px 1000px 10px rgb(255, 255, 255)
 }
 .conatiner-home{
