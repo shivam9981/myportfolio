@@ -9,6 +9,7 @@ import Project from './Component/Project';
 import Skills from './Component/Skills';
 
 function App() {
+  console.log("done")
   return (
     <div className="App">
       <Navbar />
