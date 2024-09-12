@@ -147,7 +147,78 @@ const Project = () => {
                             <a href='https://audio-lime.vercel.app' target="_blank" className='a-btn'>Live View</a>
                         </button>
                     </div>
+                    </div>
+                <div className='box-container-project'>
+                    <p>Chat Gpt Notepad</p>
+                    {/* <p>Front End Project</p> */}
+                    <p>Web Application</p>
+                    <p>Frontend : ReactJS</p>
+                    <p>backendend : Django</p>
+                    <p>Database : DB sql Lite</p>
+                    <p>April-2024 / April-2024</p>
+                    <div className='btn-conatiner'>
+                        <button className='btn-p'>
+                            <a href='' target="_blank" className='a-btn'>Source Code</a>
+                        </button>
+                        <button className='btn-p'>
+                            <a href='https://www.chatgptnotepad.com/' target="_blank" className='a-btn'>Live View</a>
+                        </button>
+                    </div>
                 </div>
+
+
+                <div className='box-container-project'>
+                    <p>ShopUpApp</p>
+                    {/* <p>Front End Project</p> */}
+                    <p>Web Application</p>
+                    <p>Frontend : ReactJS</p>
+                    <p>backendend : Django</p>
+                    <p>Database : Mysql</p>
+                    <p>May-2024 / July-2024</p>
+                    <div className='btn-conatiner'>
+                        <button className='btn-p'>
+                            <a href='' target="_blank" className='a-btn'>Source Code</a>
+                        </button>
+                        <button className='btn-p'>
+                            <a href='https://www.shopupapp.in/' target="_blank" className='a-btn'>Live View</a>
+                        </button>
+                    </div>
+                </div>
+                <div className='box-container-project'>
+                    <p>BooMyVenue</p>
+                    {/* <p>Front End Project</p> */}
+                    <p>Web Application</p>
+                    <p>Frontend : ReactJS</p>
+                    <p>backendend : Django</p>
+                    <p>Database : Mysql</p>
+                    <p>July-2024 / Aug-2024</p>
+                    <div className='btn-conatiner'>
+                        <button className='btn-p'>
+                            <a href='' target="_blank" className='a-btn'>Source Code</a>
+                        </button>
+                        <button className='btn-p'>
+                            <a href='https://www.bookmyvenue.ai/' target="_blank" className='a-btn'>Live View</a>
+                        </button>
+                    </div>
+                </div>
+                <div className='box-container-project'>
+                    <p>Dfoodo</p>
+                    {/* <p>Front End Project</p> */}
+                    <p>Web Application</p>
+                    <p>Frontend : ReactJS</p>
+                    <p>backendend : Django</p>
+                    <p>Database : Mysql</p>
+                    <p>Aug-2024 / Sept-2024</p>
+                    <div className='btn-conatiner'>
+                        <button className='btn-p'>
+                            <a href='' target="_blank" className='a-btn'>Source Code</a>
+                        </button>
+                        <button className='btn-p'>
+                            <a href='https://dfoodo.triosoft.ai/' target="_blank" className='a-btn'>Live View</a>
+                        </button>
+                    </div>
+                </div>
+
             </div>
         </div>
     )

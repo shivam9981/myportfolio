@@ -28,6 +28,12 @@ const Experience = () => {
                     <p>Unity Developer</p>
                     <p>5 Month</p>
                     <p>Aug-2023 / JAN-2024</p>
+                </div><div className='box-container'>
+                    <p>Triosoft Technology Private LTD.</p>
+                    <p>Full Time</p>
+                    <p>Bhopal</p>
+                    <p>Software Developer</p>
+                    <p>April-2024 / Present</p>
                 </div>
             </div>
         </div>

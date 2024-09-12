@@ -16,7 +16,7 @@ const About = () => {
 
                         I thrive in collaborative environments and am eager to contribute my enthusiasm and fresh perspectives to your esteemed organization. With a hunger for continuous learning and a drive to excel, I am prepared to adapt to new challenges and contribute positively to your team.
                     </p>
-                    <a href='./Shivam_Gupta_Resume.pdf' download="Shivam_Gupta_Resume.pdf" className='btn-1'  >
+                    <a href='./Shivam_Gupta.pdf' download="Shivam_Gupta.pdf" className='btn-1'  >
                         Download Resume
                     </a>
                 </div>
